@@ -1,5 +1,5 @@
 ## Raspberry pi 자료리스트
-![배너이미지](./CAU_THINKBIT/assets/main_poster.png)  
+![배너이미지](./assets/Raspberry_pi_banner.png)  
 note) 아직 이미지 링크 구현안됨
 ### Chapter.1 Basic of Raspberry pi
 1.1 [라즈베리파이란]()   
