@@ -1,18 +1,16 @@
 ## Raspberry pi 자료리스트
 
-
-note) 아직 이미지 링크 구현안됨
 ### Chapter.1 Basic of Raspberry pi
-1.1 [라즈베리파이란]()   
-1.2 [GPIO]()  
-1.3 [전원공급]()  
+1.1 [라즈베리파이 개요](https://faransansj.github.io/about_raspberrypi/)   
+1.2 [GPIO](https://faransansj.github.io/GPIO/)  
 
 ### Chapter.2 Raspbian OS
-2.1 [Raspbian OS 설치]()  
-2.2 [Raspbian OS 기초]()  
-2.3 [Raspberry pi 성능 향상 시키기]()
+2.1 [Raspbian OS 설치](https://faransansj.github.io/install_raspbian/)  
+2.2 [Raspbian OS 기초](https://faransansj.github.io/install_raspbian/)  
+2.3 [Raspberry pi 성능 향상 시키기](https://faransansj.github.io/Raspberrypi_overclock/)
 
-**Special Lecture** : [Python for Raspberry pi]()
+**Special Lecture** : [Python for Raspberry pi](https://faransansj.github.io/Python_for_Raspberry_pi/)
+
 ### Chapter.3 Network 
 3.1 [IP 네트워크]()   
 3.2 [SSH Connect]()  
@@ -26,7 +24,7 @@ note) 아직 이미지 링크 구현안됨
 4.2 [Analog 입출력]()  
 4.3 [PWM 제어]()  
 
-4.4 [Switch]()
+4.4 [Switch]()  
 4.5 [Ultra sonic sensor]()   
 4.6 [CDS sensor]()  
 
